@@ -253,3 +253,19 @@ Armbian's partnership program helps to support Armbian and the Armbian community
 ## License
 
 This software is published under the GPL-2.0 License license.
+
+git clone https://github.com/NickAlilovic/build.git --branch v20250306
+
+cd build
+
+./compile.sh
+
+choose "Do not change kernel configuration"
+
+choose "Show CSC/WIP/EOS/TVB"
+
+choose "I understand and agree"
+
+choose "x98h"
+
+choose "edge"
